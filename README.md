@@ -58,14 +58,14 @@ When you are finished with the assignment, push your git repository to GitHub so
 The four plots that you will need to construct are shown below. 
 
 ### Plot 1
-https://github.com/RobMiChGu/ExData_Plotting1/plot1.png
+https://github.com/RobMiChGu/ExData_Plotting1/blob/master/plot1.png
 
 ### Plot 2
-https://github.com/RobMiChGu/ExData_Plotting1/plot2.png
+https://github.com/RobMiChGu/ExData_Plotting1/blob/master/plot2.png
 
 ### Plot 3
-https://github.com/RobMiChGu/ExData_Plotting1/plot3.png
+https://github.com/RobMiChGu/ExData_Plotting1/blob/master/plot3.png
 
 ### Plot 4
-https://github.com/RobMiChGu/ExData_Plotting1/plot4.png
+https://github.com/RobMiChGu/ExData_Plotting1/blob/master/plot4.png
 
