@@ -58,7 +58,7 @@ When you are finished with the assignment, push your git repository to GitHub so
 The four plots that you will need to construct are shown below. 
 
 ### Plot 1
-https://github.com/RobMiChGu/ExData_Plotting1/blob/master/plot1.png
+![plot of chunk plot1](plot1.png)
 
 ### Plot 2
 https://github.com/RobMiChGu/ExData_Plotting1/blob/master/plot2.png
