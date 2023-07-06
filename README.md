@@ -61,11 +61,10 @@ The four plots that you will need to construct are shown below.
 ![plot of chunk plot1](plot1.png)
 
 ### Plot 2
-https://github.com/RobMiChGu/ExData_Plotting1/blob/master/plot2.png
+![plot of chunk plot1](plot2.png)
 
 ### Plot 3
-https://github.com/RobMiChGu/ExData_Plotting1/blob/master/plot3.png
+![plot of chunk plot1](plot3.png)
 
 ### Plot 4
-https://github.com/RobMiChGu/ExData_Plotting1/blob/master/plot4.png
-
+![plot of chunk plot1](plot4.png)
